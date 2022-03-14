@@ -23,4 +23,5 @@ While the automation of these techniques will hopefully be convenient, I would N
 If you have any questions, comments, or recommendations about the code and/or EPMA data analysis procedures, please do not hesitate to reach out to me over email at cjf219@lehigh.edu. And if you find the code useful in  your own research, please ensure to cite the proper publications that I will link below:
 
 MBA- Farnin et. al: https://doi.org/10.1007/s11661-020-05986-9
+
 WIRS- Ganesan et. al: https://doi.org/10.1007/s11661-005-0338-2 
